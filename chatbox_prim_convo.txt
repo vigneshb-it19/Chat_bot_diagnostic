@@ -1,0 +1,13 @@
+Use-Case: As a user of an automated chatbot for diabetes
+diagnostics, I should be able to know my past test data records in
+order for me to check my history.
+Use-Case: As a user of an automated chatbot for diabetes
+diagnostics, I should be able to know the type of tests conducted
+at the center and their purpose so that my doctor and I can decide
+on the test.
+Use-Case: As a user of an automated chatbot for diabetes
+diagnostics, I should be able to get the results of my tests done so
+that I can get a report.
+Use-Case: As a user of an automated chatbot for diabetes
+diagnostics, I should be able to get a recommendation on my test
+results so that I am able to know the future course of action.
